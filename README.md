@@ -46,6 +46,7 @@ Contributions are welcome! If you have suggestions or find issues, please open a
 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own projects.
 
+<img width="559" alt="Screenshot 2024-05-29 at 8 26 07 PM" src="https://github.com/sravyaDongari/todos/assets/122468955/a7a3f664-0053-4fba-8e0a-d1ab945b11f9">
 
 
 
